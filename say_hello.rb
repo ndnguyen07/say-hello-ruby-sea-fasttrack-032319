@@ -4,4 +4,4 @@ def say_hello
   
 end
 
-say_hello (Dang)
+say_hello (Ruby Programmer)
