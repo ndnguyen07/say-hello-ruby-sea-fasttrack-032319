@@ -3,4 +3,4 @@ def say_hello (name)
   puts "Hello {#name}!"
   end
 
-say_hello (Dang)
+say_hello ("Dang")
